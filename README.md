@@ -1,3 +1,3 @@
-# DSC 295
-## Spring 2023 Introductory Special Topics in Data Science
-### Introduction to R/Python for Data Science
+# DSC 201
+## Fall 2023
+### Intro to R/Python for Data Science
