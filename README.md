@@ -1,7 +1,3 @@
-Here's the updated README with the revised learning outcome:
-
----
-
 # Introduction to R and Python for Data Science
 
 This course is designed to develop essential skills in R and Python for students entering the field of data science. It serves as a foundational course for further study in the Data Science Academy.
