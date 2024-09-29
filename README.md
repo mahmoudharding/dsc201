@@ -48,7 +48,8 @@ You will need the following tools and libraries to complete the course:
 - Python (version 3.8 or higher)
 - RStudio (recommended for R development)
 - Jupyter Notebooks (recommended for Python development)
-- Additional libraries listed in the `requirements.txt` file.
+- Additional Python libraries listed in the `requirements.txt` file.
+- Additional R packages listed in the `install_packages.R` script.
 
 ## Contributions
 
