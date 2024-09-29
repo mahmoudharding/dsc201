@@ -42,14 +42,19 @@ The course is divided into the following key modules:
 
 ## Dependencies
 
-You will need the following tools and libraries to complete the course:
+### Python Dependencies
 
-- R (version 4.0 or higher)
-- Python (version 3.8 or higher)
-- RStudio (recommended for R development)
-- Jupyter Notebooks (recommended for Python development)
-- Additional Python libraries listed in the `requirements.txt` file.
-- Additional R packages listed in the `install_packages.R` script.
+To install the required Python libraries, run the following command:
+```bash
+pip install -r requirements.txt
+```
+
+### R Dependencies
+
+To install the necessary R libraries, run the following script in R:
+```r
+source("install_packages.R")
+```
 
 ## Contributions
 
