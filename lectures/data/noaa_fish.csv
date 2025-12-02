@@ -1,0 +1,328 @@
+species,species_code,month,type_of_day,sub_region,state,length_mm,length_in,weight_kg,weight_lbs,fishing_mode,area_x
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,330,12.99212598,0.42,0.9259404,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,930,36.61417323,6.28,13.8450136,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekday,South Atlantic,Florida,1001,39.40944882,9.58,21.1202596,Charter Boat,2
+RED DRUM,8835440901,2,Weekend,South Atlantic,North Carolina,584,22.99212598,2.1,4.629702,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,936,36.8503937,6.3,13.889106,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,773,30.43307087,3.22,7.0988764,Charter Boat,2
+RED DRUM,8835440901,2,Weekday,South Atlantic,North Carolina,536,21.1023622,2.05,4.519471,Private or Rental Boat,5
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,317,12.48031496,0.33,0.7275246,Private or Rental Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,964,37.95275591,5.62,12.3899644,Charter Boat,2
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,300,11.81102362,0.23,0.5070626,Private or Rental Boat,4
+RED DRUM,8835440901,2,Weekend,South Atlantic,North Carolina,632,24.88188976,2.9,6.393398,Private or Rental Boat,5
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Mississippi,740,29.13385827,4.02,8.8625724,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,774,30.47244094,3.22,7.0988764,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,929,36.57480315,6.82,15.0355084,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,796,31.33858268,3.86,8.5098332,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,676,26.61417323,2.18,4.8060716,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,894,35.19685039,6.1,13.448182,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,619,24.37007874,1.46,3.2187452,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,678,26.69291339,2.58,5.6879196,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,349,13.74015748,0.56,1.2345872,Charter Boat,3
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,698,27.48031496,2.58,5.6879196,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,699,27.51968504,2.46,5.4233652,Private or Rental Boat,3
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,509,20.03937008,1.62,3.5714844,Charter Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,646,25.43307087,2.06,4.5415172,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,785,30.90551181,3.5,7.71617,Charter Boat,2
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,555,21.8503937,1.96,4.3210552,Charter Boat,5
+KING MACKEREL,8850030501,2,Weekday,South Atlantic,Florida,614,24.17322835,1.8,3.968316,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,961,37.83464567,7.22,15.9173564,Charter Boat,2
+RED DRUM,8835440901,1,Weekday,Gulf of Mexico,Florida,686,27.00787402,3.52,7.7602624,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,723,28.46456693,2.4,5.291088,Charter Boat,4
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Florida,528,20.78740157,1.34,2.9541908,Private or Rental Boat,5
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,588,23.1496063,2.2,4.850164,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,684,26.92913386,2.6,5.732012,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,649,25.5511811,1.86,4.1005932,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,651,25.62992126,2.12,4.6737944,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,688,27.08661417,2.54,5.5997348,Charter Boat,1
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,328,12.91338583,0.48,1.0582176,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,320,12.5984252,0.38,0.8377556,Private or Rental Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,296,11.65354331,0.26,0.5732012,Charter Boat,3
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,300,11.81102362,0.32,0.7054784,Charter Boat,3
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,773,30.43307087,3.26,7.1870612,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,700,27.55905512,2.12,4.6737944,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,816,32.12598425,3.94,8.6862028,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,308,12.12598425,0.34,0.7495708,Charter Boat,3
+RED DRUM,8835440901,1,Weekend,South Atlantic,Florida,668,26.2992126,3.34,7.3634308,Private or Rental Boat,5
+RED DRUM,8835440901,1,Weekday,South Atlantic,Florida,431,16.96850394,0.84,1.8518808,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,861,33.8976378,5.08,11.1994696,Charter Boat,1
+RED DRUM,8835440901,1,Weekday,Gulf of Mexico,Florida,555,21.8503937,1.96,4.3210552,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekday,South Atlantic,Florida,1001,39.40944882,9.58,21.1202596,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,983,38.7007874,7.58,16.7110196,Charter Boat,2
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,258,10.15748031,0.24,0.5291088,Shore,3
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,292,11.49606299,0.3,0.661386,Private or Rental Boat,4
+RED DRUM,8835440901,1,Weekday,Gulf of Mexico,Mississippi,740,29.13385827,4.02,8.8625724,Private or Rental Boat,5
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Mississippi,675,26.57480315,3.5,7.71617,Charter Boat,5
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,258,10.15748031,0.24,0.5291088,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,772,30.39370079,3.6,7.936632,Charter Boat,2
+BLACK SEA BASS,8835020301,2,Weekday,South Atlantic,North Carolina,351,13.81889764,0.7,1.543234,Private or Rental Boat,2
+RED DRUM,8835440901,1,Weekend,South Atlantic,Florida,610,24.01574803,2.82,6.2170284,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,831,32.71653543,4.28,9.4357736,Charter Boat,4
+RED DRUM,8835440901,1,Weekend,South Atlantic,Florida,536,21.1023622,1.8,3.968316,Private or Rental Boat,5
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,306,12.04724409,0.48,1.0582176,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekday,Gulf of Mexico,Florida,324,12.75590551,0.38,0.8377556,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,671,26.41732283,2.16,4.7619792,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,314,12.36220472,0.34,0.7495708,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,611,24.05511811,1.76,3.8801312,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,869,34.21259843,4.96,10.9349152,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,725,28.54330709,2.9,6.393398,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,1002,39.4488189,7.96,17.5487752,Charter Boat,2
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Mississippi,740,29.13385827,4.02,8.8625724,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,808,31.81102362,3.74,8.2452788,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,753,29.64566929,3.14,6.9225068,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,650,25.59055118,1.66,3.6596692,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,802,31.57480315,3.96,8.7302952,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,614,24.17322835,1.54,3.3951148,Charter Boat,1
+RED DRUM,8835440901,1,Weekend,South Atlantic,Florida,449,17.67716535,0.96,2.1164352,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,769,30.27559055,3.58,7.8925396,Charter Boat,2
+RED DRUM,8835440901,1,Weekend,South Atlantic,Florida,542,21.33858268,1.66,3.6596692,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,1002,39.4488189,7.96,17.5487752,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,970,38.18897638,6.86,15.1236932,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,846,33.30708661,4.82,10.6262684,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,856,33.7007874,5.08,11.1994696,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,926,36.45669291,6.14,13.5363668,Charter Boat,2
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Florida,623,24.52755906,2.56,5.6438272,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,875,34.4488189,5.14,11.3317468,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,620,24.40944882,1.58,3.4832996,Charter Boat,1
+RED DRUM,8835440901,2,Weekend,South Atlantic,North Carolina,559,22.00787402,1.8,3.968316,Private or Rental Boat,5
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,337,13.26771654,0.42,0.9259404,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,736,28.97637795,3.2,7.054784,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,305,12.00787402,0.36,0.7936632,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,651,25.62992126,1.92,4.2328704,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,699,27.51968504,2.46,5.4233652,Private or Rental Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,752,29.60629921,3.08,6.7902296,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,780,30.70866142,3.12,6.8784144,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,870,34.2519685,4.96,10.9349152,Charter Boat,2
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,466,18.34645669,1.18,2.6014516,Charter Boat,5
+RED DRUM,8835440901,1,Weekend,South Atlantic,Florida,438,17.24409449,0.96,2.1164352,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,887,34.92125984,4.54,10.0089748,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,769,30.27559055,3.14,6.9225068,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,773,30.43307087,3.26,7.1870612,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,738,29.05511811,3,6.61386,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,719,28.30708661,2.7,5.952474,Charter Boat,1
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,761,29.96062992,3.4,7.495708,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,718,28.26771654,2.7,5.952474,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,635,25,1.97,4.3431014,Charter Boat,4
+RED DRUM,8835440901,2,Weekday,South Atlantic,North Carolina,520,20.47244094,1.6,3.527392,Private or Rental Boat,1
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,800,31.49606299,4.5,9.92079,Charter Boat,4
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Mississippi,675,26.57480315,3.5,7.71617,Charter Boat,5
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,314,12.36220472,0.48,1.0582176,Charter Boat,3
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,788,31.02362205,3.54,7.8043548,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,312,12.28346457,0.3,0.661386,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,904,35.59055118,5.74,12.6545188,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,625,24.60629921,1.68,3.7037616,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,973,38.30708661,7.32,16.1378184,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,784,30.86614173,3.92,8.6421104,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,South Atlantic,North Carolina,351,13.81889764,0.7,1.543234,Private or Rental Boat,2
+RED DRUM,8835440901,1,Weekend,South Atlantic,North Carolina,510,20.07874016,1.5,3.30693,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,675,26.57480315,1.96,4.3210552,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,302,11.88976378,0.3,0.661386,Private or Rental Boat,4
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,290,11.41732283,0.28,0.6172936,Private or Rental Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,1004,39.52755906,7.36,16.2260032,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,642,25.27559055,1.76,3.8801312,Charter Boat,4
+RED DRUM,8835440901,1,Weekend,South Atlantic,North Carolina,584,22.99212598,2.4,5.291088,Shore,1
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,930,36.61417323,6.28,13.8450136,Charter Boat,2
+RED DRUM,8835440901,1,Weekday,Gulf of Mexico,Florida,434,17.08661417,0.86,1.8959732,Charter Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,725,28.54330709,2.9,6.393398,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,708,27.87401575,2.7,5.952474,Charter Boat,2
+RED DRUM,8835440901,2,Weekday,South Atlantic,North Carolina,584,22.99212598,2.1,4.629702,Private or Rental Boat,5
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,284,11.18110236,0.3,0.661386,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,635,25,1.97,4.3431014,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,709,27.91338583,2.42,5.3351804,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,494,19.4488189,0.96,2.1164352,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,619,24.37007874,1.56,3.4392072,Charter Boat,3
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,554,21.81102362,1.74,3.8360388,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,683,26.88976378,2.88,6.3493056,Charter Boat,1
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,671,26.41732283,2.16,4.7619792,Charter Boat,4
+RED DRUM,8835440901,2,Weekday,South Atlantic,North Carolina,561,22.08661417,2,4.40924,Charter Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,755,29.72440945,3.38,7.4516156,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,292,11.49606299,0.34,0.7495708,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,678,26.69291339,2.58,5.6879196,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,670,26.37795276,2.36,5.2029032,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,825,32.48031496,4.38,9.6562356,Charter Boat,2
+RED DRUM,8835440901,1,Weekday,South Atlantic,North Carolina,535,21.06299213,1.8,3.968316,Charter Boat,5
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,331,13.03149606,0.4,0.881848,Private or Rental Boat,4
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,292,11.49606299,0.3,0.661386,Private or Rental Boat,4
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,597,23.50393701,1.6,3.527392,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,336,13.22834646,0.48,1.0582176,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,270,10.62992126,0.23,0.5070626,Private or Rental Boat,4
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,498,19.60629921,1.44,3.1746528,Charter Boat,5
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Florida,535,21.06299213,1.58,3.4832996,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,651,25.62992126,2.12,4.6737944,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,494,19.4488189,0.96,2.1164352,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,South Atlantic,Florida,845,33.26771654,4.78,10.5380836,Charter Boat,1
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Florida,595,23.42519685,2.2,4.850164,Shore,5
+RED DRUM,8835440901,1,Weekend,South Atlantic,North Carolina,637,25.07874016,2.9,6.393398,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,815,32.08661417,4.2,9.259404,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,630,24.80314961,1.86,4.1005932,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,630,24.80314961,1.86,4.1005932,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,300,11.81102362,0.28,0.6172936,Charter Boat,3
+RED DRUM,8835440901,2,Weekday,South Atlantic,North Carolina,570,22.44094488,2,4.40924,Charter Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,675,26.57480315,2.2,4.850164,Charter Boat,2
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,302,11.88976378,0.3,0.661386,Private or Rental Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,930,36.61417323,6.74,14.8591388,Charter Boat,2
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,631,24.84251969,3,6.61386,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,620,24.40944882,1.64,3.6155768,Charter Boat,4
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,591,23.26771654,2.41,5.3131342,Charter Boat,5
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,300,11.81102362,0.28,0.6172936,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,639,25.15748031,2.08,4.5856096,Charter Boat,1
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,921,36.25984252,6.56,14.4623072,Charter Boat,4
+RED DRUM,8835440901,1,Weekday,South Atlantic,Florida,610,24.01574803,2.82,6.2170284,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,727,28.62204724,2.7,5.952474,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,South Atlantic,Florida,714,28.11023622,2.36,5.2029032,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,676,26.61417323,2.18,4.8060716,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,South Atlantic,Florida,840,33.07086614,4.73,10.4278526,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,839,33.03149606,4.64,10.2294368,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,804,31.65354331,3.76,8.2893712,Charter Boat,1
+KING MACKEREL,8850030501,2,Weekday,South Atlantic,Florida,685,26.96850394,2.88,6.3493056,Charter Boat,1
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,315,12.4015748,0.38,0.8377556,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,779,30.66929134,3.46,7.6279852,Charter Boat,2
+RED DRUM,8835440901,1,Weekend,South Atlantic,North Carolina,577,22.71653543,2.5,5.51155,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,684,26.92913386,2.6,5.732012,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,642,25.27559055,1.88,4.1446856,Charter Boat,2
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Alabama,396,15.59055118,0.7,1.543234,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,773,30.43307087,3.26,7.1870612,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,805,31.69291339,3.7,8.157094,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,865,34.05511811,5.24,11.5522088,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,758,29.84251969,2.98,6.5697676,Private or Rental Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,255,10.03937008,0.26,0.5732012,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,778,30.62992126,3.32,7.3193384,Charter Boat,4
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,621,24.4488189,2.8,6.172936,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,788,31.02362205,3.54,7.8043548,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,903,35.5511811,5.08,11.1994696,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,815,32.08661417,4.2,9.259404,Charter Boat,2
+RED DRUM,8835440901,1,Weekday,South Atlantic,North Carolina,566,22.28346457,2.1,4.629702,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,845,33.26771654,4.78,10.5380836,Charter Boat,1
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Alabama,530,20.86614173,1.8,3.968316,Charter Boat,5
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,755,29.72440945,3.12,6.8784144,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,893,35.15748031,5.8,12.786796,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,662,26.06299213,1.94,4.2769628,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,723,28.46456693,2.4,5.291088,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,872,34.33070866,5.2,11.464024,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,796,31.33858268,3.9,8.598018,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,825,32.48031496,4.02,8.8625724,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,846,33.30708661,4.82,10.6262684,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,675,26.57480315,1.96,4.3210552,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,262,10.31496063,0.26,0.5732012,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,738,29.05511811,3,6.61386,Charter Boat,4
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Mississippi,740,29.13385827,4.02,8.8625724,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,736,28.97637795,3.34,7.3634308,Charter Boat,1
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,628,24.72440945,1.58,3.4832996,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,650,25.59055118,1.66,3.6596692,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,774,30.47244094,3.6,7.936632,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,282,11.1023622,0.3,0.661386,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,620,24.40944882,1.64,3.6155768,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,696,27.4015748,2.46,5.4233652,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,752,29.60629921,3.08,6.7902296,Charter Boat,2
+RED DRUM,8835440901,2,Weekend,South Atlantic,North Carolina,536,21.1023622,1.8,3.968316,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,1004,39.52755906,7.36,16.2260032,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,882,34.72440945,4.9,10.802638,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,South Atlantic,Florida,804,31.65354331,3.76,8.2893712,Charter Boat,1
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,305,12.00787402,0.36,0.7936632,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,628,24.72440945,1.58,3.4832996,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,705,27.75590551,2.78,6.1288436,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,642,25.27559055,1.76,3.8801312,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,798,31.41732283,3.76,8.2893712,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,947,37.28346457,6.86,15.1236932,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,314,12.36220472,0.48,1.0582176,Charter Boat,3
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,874,34.40944882,3.8,8.377556,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,725,28.54330709,2.7,5.952474,Charter Boat,2
+RED DRUM,8835440901,2,Weekend,South Atlantic,Florida,484,19.05511811,1.32,2.9100984,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekday,South Atlantic,Florida,696,27.4015748,2.46,5.4233652,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,816,32.12598425,3.94,8.6862028,Charter Boat,4
+RED DRUM,8835440901,1,Weekday,South Atlantic,Florida,428,16.8503937,0.8,1.763696,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,718,28.26771654,2.7,5.952474,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,626,24.64566929,1.8,3.968316,Charter Boat,1
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,769,30.27559055,3.54,7.8043548,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,825,32.48031496,4.02,8.8625724,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,297,11.69291339,0.34,0.7495708,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,755,29.72440945,3.12,6.8784144,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,753,29.64566929,3.14,6.9225068,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,874,34.40944882,3.8,8.377556,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,850,33.46456693,4.66,10.2735292,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,930,36.61417323,6.74,14.8591388,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,921,36.25984252,6.56,14.4623072,Charter Boat,4
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Mississippi,740,29.13385827,4.02,8.8625724,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,783,30.82677165,3.74,8.2452788,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,699,27.51968504,2.36,5.2029032,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,887,34.92125984,4.54,10.0089748,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,South Atlantic,Florida,766,30.15748031,3.28,7.2311536,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,824,32.44094488,4.36,9.6121432,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,730,28.74015748,2.95,6.503629,Charter Boat,4
+RED DRUM,8835440901,2,Weekday,Gulf of Mexico,Mississippi,740,29.13385827,4.02,8.8625724,Private or Rental Boat,5
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,662,26.06299213,1.94,4.2769628,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,709,27.91338583,2.42,5.3351804,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,305,12.00787402,0.28,0.6172936,Private or Rental Boat,4
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Alabama,423,16.65354331,0.8,1.763696,Private or Rental Boat,5
+RED DRUM,8835440901,1,Weekend,South Atlantic,North Carolina,575,22.63779528,2.2,4.850164,Private or Rental Boat,2
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,700,27.55905512,2.12,4.6737944,Charter Boat,4
+RED DRUM,8835440901,1,Weekday,Gulf of Mexico,Florida,514,20.23622047,1.64,3.6155768,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,857,33.74015748,5.02,11.0671924,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,358,14.09448819,0.5,1.10231,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,252,9.921259843,0.26,0.5732012,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,618,24.33070866,1.68,3.7037616,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,705,27.75590551,2.78,6.1288436,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,625,24.60629921,1.68,3.7037616,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,302,11.88976378,0.36,0.7936632,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,800,31.49606299,4.08,8.9948496,Charter Boat,1
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,461,18.1496063,1.13,2.4912206,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekday,South Atlantic,Florida,651,25.62992126,1.92,4.2328704,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,929,36.57480315,6.82,15.0355084,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,698,27.48031496,2.58,5.6879196,Charter Boat,4
+RED DRUM,8835440901,2,Weekday,South Atlantic,North Carolina,620,24.40944882,2.68,5.9083816,Charter Boat,5
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,480,18.8976378,1.66,3.6596692,Charter Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,814,32.04724409,3.78,8.3334636,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,619,24.37007874,1.46,3.2187452,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,670,26.37795276,2.36,5.2029032,Charter Boat,4
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Alabama,406,15.98425197,0.75,1.653465,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,790,31.1023622,4.04,8.9066648,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,844,33.22834646,4.4,9.700328,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,305,12.00787402,0.36,0.7936632,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,730,28.74015748,2.95,6.503629,Charter Boat,4
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Florida,528,20.78740157,1.58,3.4832996,Private or Rental Boat,5
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,283,11.14173228,0.3,0.661386,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,314,12.36220472,0.4,0.881848,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,788,31.02362205,3.54,7.8043548,Charter Boat,4
+RED DRUM,8835440901,2,Weekend,South Atlantic,North Carolina,550,21.65354331,2.3,5.070626,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,800,31.49606299,4.5,9.92079,Charter Boat,4
+RED DRUM,8835440901,2,Weekend,Gulf of Mexico,Florida,514,20.23622047,1.64,3.6155768,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,649,25.5511811,1.86,4.1005932,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,618,24.33070866,1.68,3.7037616,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,895,35.23622047,5.02,11.0671924,Charter Boat,2
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,692,27.24409449,2.12,4.6737944,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,804,31.65354331,3.8,8.377556,Charter Boat,2
+BLACK SEA BASS,8835020301,2,Weekend,South Atlantic,Florida,334,13.1496063,0.46,1.0141252,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,735,28.93700787,2.94,6.4815828,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,904,35.59055118,5.74,12.6545188,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekday,Gulf of Mexico,Florida,798,31.41732283,3.76,8.2893712,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,983,38.7007874,7.7,16.975574,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,955,37.5984252,7.28,16.0496336,Charter Boat,1
+KING MACKEREL,8850030501,1,Weekday,South Atlantic,Florida,780,30.70866142,3.12,6.8784144,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,364,14.33070866,0.5,1.10231,Charter Boat,4
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,645,25.39370079,1.78,3.9242236,Charter Boat,3
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,680,26.77165354,2.27,5.0044874,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekday,Gulf of Mexico,Florida,597,23.50393701,1.6,3.527392,Charter Boat,4
+RED DRUM,8835440901,1,Weekday,South Atlantic,Florida,453,17.83464567,1.08,2.3809896,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,875,34.4488189,4.84,10.6703608,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,893,35.15748031,5.8,12.786796,Charter Boat,2
+RED DRUM,8835440901,1,Weekend,Gulf of Mexico,Alabama,596,23.46456693,2.45,5.401319,Private or Rental Boat,5
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,273,10.7480315,0.26,0.5732012,Charter Boat,4
+RED DRUM,8835440901,2,Weekday,South Atlantic,North Carolina,535,21.06299213,1.8,3.968316,Charter Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,769,30.27559055,3.54,7.8043548,Charter Boat,2
+RED DRUM,8835440901,1,Weekday,Gulf of Mexico,Florida,565,22.24409449,1.92,4.2328704,Private or Rental Boat,5
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,800,31.49606299,4.04,8.9066648,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,825,32.48031496,4.56,10.0530672,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,877,34.52755906,5.12,11.2876544,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,882,34.72440945,4.9,10.802638,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,Gulf of Mexico,Florida,669,26.33858268,2.1,4.629702,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,769,30.27559055,3.58,7.8925396,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,810,31.88976378,4.6,10.141252,Charter Boat,2
+BLACK SEA BASS,8835020301,1,Weekend,South Atlantic,North Carolina,351,13.81889764,0.7,1.543234,Private or Rental Boat,2
+KING MACKEREL,8850030501,2,Weekend,Gulf of Mexico,Florida,778,30.62992126,3.32,7.3193384,Charter Boat,4
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,735,28.93700787,2.82,6.2170284,Charter Boat,2
+KING MACKEREL,8850030501,1,Weekend,South Atlantic,Florida,720,28.34645669,3,6.61386,Charter Boat,2
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,273,10.7480315,0.25,0.551155,Private or Rental Boat,4
+BLACK SEA BASS,8835020301,1,Weekend,Gulf of Mexico,Florida,349,13.74015748,0.44,0.9700328,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekend,Gulf of Mexico,Florida,364,14.33070866,0.5,1.10231,Charter Boat,4
+BLACK SEA BASS,8835020301,1,Weekday,Gulf of Mexico,Florida,295,11.61417323,0.32,0.7054784,Charter Boat,4
+BLACK SEA BASS,8835020301,2,Weekday,Gulf of Mexico,Florida,281,11.06299213,0.3,0.661386,Private or Rental Boat,5
